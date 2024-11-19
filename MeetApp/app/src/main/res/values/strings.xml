@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeetApp</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="new_meetup">New Meetup</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="selected_date">Selected date: %s</string>
+    <string name="set_date">%s - %s</string>
+    <string name="email">Email</string>
+    <string name="new_participant">New Participant</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="choose_dates">Choose dates</string>
+    <string name="add_participant">Add Participant</string>
+    <string name="add_meetup">Add Meetup</string>
+</resources>
